@@ -4,13 +4,13 @@ Proyek hasil latihan dari buku **Langkah Awal Menguasai Bahasa Pemrograman Pytho
 [![Langkah Awal Menguasai Bahasa Pemrograman Python](cover.png)](https://doi.org/10.55981/brin.656)
 
 ## Proyek 1
-* Bilangan Acak
-* Kutipan Acak
+* ( [file](/projects/01-bilangan-acak.py) ) Bilangan Acak
+* ( file ) Kutipan Acak
 
 ## Proyek 2
-* Mengubah Teks menjadi Daftar
-* Menghitung Frekuensi Kemunculan Kata di Dalam Daftar
+* ( file ) Mengubah Teks menjadi Daftar
+* ( file ) Menghitung Frekuensi Kemunculan Kata di Dalam Daftar
 
 ## Proyek 3
-* Pengulangan While
-* Membuat Program Lebih Interaktif
+* ( file ) Pengulangan While
+* ( file ) Membuat Program Lebih Interaktif
