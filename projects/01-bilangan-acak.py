@@ -3,7 +3,7 @@ import random
 
 # buat variabel bilangan_acak, diisi menggunakan modul random
 # buat 1 sebagai batas minimal dan 7 sebagai batas maksimal dari angka random
-bilangan_acak = random.randint(1, 7)\
+bilangan_acak = random.randint(1, 7)
 
 # buat variabel warna yang akan diisi nanti dari hasil random
 warna = ''
