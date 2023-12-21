@@ -5,7 +5,7 @@ Proyek hasil latihan dari buku **Langkah Awal Menguasai Bahasa Pemrograman Pytho
 
 ## Proyek 1
 * ([file](/projects/01-bilangan-acak.py)) Bilangan Acak
-* (file) Kutipan Acak
+* ([file](/projects/01-kutipan-acak.py)) Kutipan Acak
 
 ## Proyek 2
 * (file) Mengubah Teks menjadi Daftar
